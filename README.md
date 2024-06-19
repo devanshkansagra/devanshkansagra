@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devanshkansagra
+# 👋 Hi, I’m DEVANSH KANSAGRA
 - 👀 I’m interested in Full stack Web development, iOS Development and Cloud Engineering
 - 🌱 I’m currently learning Full Stack Web Development using MERN Stack. I have created many projects regarding that
 - 💞️ I’m looking to collaborate on Github and many opensource Projects and platforms
