@@ -1,5 +1,8 @@
-Hey, I’m Devansh! I’m learning Full Stack Web Development with a focus on the MERN stack and have built several projects along the way.
-
+<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Devansh+Kansagra;I+am+Software+Developer💻;Open+Source+Contributor">
+</p>
+<hr>
 💻 What I’m doing
 
 - Building web applications with the MERN stack
