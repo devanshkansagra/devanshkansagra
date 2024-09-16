@@ -29,9 +29,3 @@ Instagram: @devanshkansagra.dev
 ## My Stats
 
 ![devanshkansagra's Stats](https://github-readme-stats.vercel.app/api?username=devanshkansagra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-<a href="http://www.github.com/manascb1344"><img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshkansagra&theme=github-compact" alt="GitHub Commits Graph" /></a>
-<!---
-devanshkansagra/devanshkansagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
