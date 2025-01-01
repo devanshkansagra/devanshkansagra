@@ -1,8 +1,4 @@
-<hr>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Devansh+Kansagra;I+am+Software+Developer💻;Open+Source+Contributor">
-</p>
-<hr>
+<h1 align="center">Hi There 👋, I am Devansh Kansagra</h1>
 💻 What I’m doing
 
 - Building web applications with the MERN stack
