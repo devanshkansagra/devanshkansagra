@@ -37,8 +37,8 @@ Email: dkansagra04@gmail.com
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
- ### Other
- ![Amazon Web Services S3](https://img.shields.io/badge/aws_s3-%2320232a.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+ ### Cloud
+ ![Amazon Web Services](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
  
 
 ## My Stats
